@@ -3,6 +3,7 @@ The first thing that I implemented in the code was reading the file with a messa
 I defined a function that needed the encrypted text (that is the message that I had read before in the code) and a number of letters that I want to shift.
 I created a loop that would go over every possible char in a message and change it.
 
-In the end I asked the program for an output of every possible shift (as there are 26 possible ones - 26 letters in the alphabet) and looked for the one that made the most sense
+In the end I asked the program for an output of every possible shift (as there are 26 possible ones - 26 letters in the alphabet). 
+I looked for the one that made the most sense
 
 The flag is: iloveromeavecaesar
